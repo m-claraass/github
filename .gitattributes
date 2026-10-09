@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto detect README.md
+# modified files and perform LF normalization
+# auto detect renamed.md files and perform LF normalization
+
+* renamed.md=auto
