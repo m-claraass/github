@@ -1,2 +1,2 @@
 # GitHub
-Currículo de programação
+Currículo de programação.
