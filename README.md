@@ -1,2 +1,2 @@
 # github
-bagulho das programação
+currículo da programação
